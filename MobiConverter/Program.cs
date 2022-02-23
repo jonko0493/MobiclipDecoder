@@ -12,6 +12,7 @@ using LibMobiclip.Containers.Mods;
 using LibMobiclip.Codec.Sx;
 using LibMobiclip.Utils;
 using LibMobiclip.Codec.FastAudio;
+using System.Drawing;
 
 namespace MobiConverter
 {
